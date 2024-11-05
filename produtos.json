@@ -3,18 +3,21 @@
         "NOME": "The Forest",
         "LINKIMAGEM": "https://s2-techtudo.glbimg.com/_ciMZYHMT2d9biYNYtjHysAkqPg=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/W/Z/K7gS2KRN6dExkmxHv5IQ/2014-08-04-the-forest-imagem-divulgacao.jpg",
         "LINKMAGNET": "magnet:?xt=urn:btih:produto1",
-        "CATEGORIA": "Todos"
+        "CATEGORIA": "Todos",
+        "TAMANHO": 4.5
     },
     {
         "NOME": "Terraria",
         "LINKIMAGEM": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
         "LINKMAGNET": "magnet:?xt=urn:btih:produto2",
-        "CATEGORIA": "Todos"
+        "CATEGORIA": "Todos",
+        "TAMANHO": 2.0
     },
     {
         "NOME": "Resident Evil 4 Remake",
         "LINKIMAGEM": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2023/03/resident-evil-4-remake.jpg",
         "LINKMAGNET": "magnet:?xt=urn:btih:produto3",
-        "CATEGORIA": "Todos"
+        "CATEGORIA": "Todos",
+        "TAMANHO": 10.0
     }
 ]
