@@ -3,7 +3,7 @@
         "VERSÃO": "1.0.1",
         "link_do_botao": "https://www.example.com",
         "DATA": "2024-11-05",
-        "MUDANCAS": [
+        "MUDANÇAS": [
             "Implementação de melhorias na interface.",
             "Correções de bugs.",
             "Atualização da documentação."
@@ -13,7 +13,7 @@
         "VERSÃO": "1.0.0",
         "link_do_botao": "https://www.example.com",
         "DATA": "2024-10-01",
-        "MUDANCAS": [
+        "MUDANÇAS": [
             "Lançamento inicial.",
             "Funcionalidade básica implementada."
         ]
