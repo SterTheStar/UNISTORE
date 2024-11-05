@@ -1,19 +1,19 @@
 [
     {
-        "versao": "1.0.1",
+        "VERSÃO": "1.0.1",
         "link_do_botao": "https://www.example.com",
-        "data": "2024-11-05",
-        "mudancas": [
+        "DATA": "2024-11-05",
+        "MUDANCAS": [
             "Implementação de melhorias na interface.",
             "Correções de bugs.",
             "Atualização da documentação."
         ]
     },
     {
-        "versao": "1.0.0",
+        "VERSÃO": "1.0.0",
         "link_do_botao": "https://www.example.com",
-        "data": "2024-10-01",
-        "mudancas": [
+        "DATA": "2024-10-01",
+        "MUDANCAS": [
             "Lançamento inicial.",
             "Funcionalidade básica implementada."
         ]
