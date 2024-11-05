@@ -79,4 +79,84 @@
         "DESCRICAO": "Um jogo de quebra-cabeça em primeira pessoa onde você utiliza uma arma que cria portais para resolver desafios e escapar de uma instalação científica.",
         "TAMANHO": "8 GB"
     }
+        {
+        "NOME": "Minecraft",
+        "LINKIMAGEM": "https://www.minecraft.net/content/dam/games/minecraft/nether/overview/minecraft-nether-hero.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto12",
+        "CATEGORIA": "Aventura",
+        "DESCRICAO": "Um jogo de construção e sobrevivência em mundo aberto, onde os jogadores podem explorar, minerar, construir e lutar contra monstros.",
+        "TAMANHO": "1 GB"
+    },
+    {
+        "NOME": "Among Us",
+        "LINKIMAGEM": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/Among-Us-Promo-Art.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto13",
+        "CATEGORIA": "Multiplayer",
+        "DESCRICAO": "Um jogo multiplayer onde os jogadores trabalham juntos em uma nave espacial, mas um ou mais são impostores tentando sabotar a missão.",
+        "TAMANHO": "250 MB"
+    },
+    {
+        "NOME": "Dead Cells",
+        "LINKIMAGEM": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/header.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto14",
+        "CATEGORIA": "Ação",
+        "DESCRICAO": "Um jogo de ação e aventura em 2D com elementos roguelike, onde os jogadores exploram um mundo em constante mudança e enfrentam inimigos desafiadores.",
+        "TAMANHO": "1 GB"
+    },
+    {
+        "NOME": "DOOM Eternal",
+        "LINKIMAGEM": "https://cdn.cloudflare.steamstatic.com/steam/apps/379720/header.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto15",
+        "CATEGORIA": "Ação",
+        "DESCRICAO": "Um jogo de tiro em primeira pessoa que continua a história do lendário DOOM, apresentando um combate rápido e brutal contra hordas de demônios.",
+        "TAMANHO": "50 GB"
+    },
+    {
+        "NOME": "Genshin Impact",
+        "LINKIMAGEM": "https://www.genshin.hoyoverse.com/assets/images/2023/09/10/pc.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto16",
+        "CATEGORIA": "RPG",
+        "DESCRICAO": "Um RPG de ação em mundo aberto que permite aos jogadores explorar o vasto mundo de Teyvat e controlar diferentes personagens com habilidades únicas.",
+        "TAMANHO": "30 GB"
+    },
+    {
+        "NOME": "Apex Legends",
+        "LINKIMAGEM": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto17",
+        "CATEGORIA": "Battle Royale",
+        "DESCRICAO": "Um jogo de battle royale gratuito que combina personagens únicos com habilidades especiais em intensas batalhas em equipe.",
+        "TAMANHO": "22 GB"
+    },
+    {
+        "NOME": "The Legend of Zelda: Breath of the Wild",
+        "LINKIMAGEM": "https://www.zelda.com/assets/images/breath-of-the-wild/hero.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto18",
+        "CATEGORIA": "Aventura",
+        "DESCRICAO": "Um jogo de mundo aberto que permite aos jogadores explorar a vasta terra de Hyrule, resolver quebra-cabeças e derrotar inimigos em uma missão para salvar a princesa Zelda.",
+        "TAMANHO": "13 GB"
+    },
+    {
+        "NOME": "Control",
+        "LINKIMAGEM": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto19",
+        "CATEGORIA": "Ação",
+        "DESCRICAO": "Um jogo de ação e aventura em terceira pessoa que mistura elementos sobrenaturais e uma narrativa envolvente, onde você controla Jesse Faden na busca pela verdade.",
+        "TAMANHO": "42 GB"
+    },
+    {
+        "NOME": "Fall Guys: Ultimate Knockout",
+        "LINKIMAGEM": "https://cdn.cloudflare.steamstatic.com/steam/apps/1097150/header.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto20",
+        "CATEGORIA": "Multiplayer",
+        "DESCRICAO": "Um jogo de festa online onde você compete em uma série de minijogos e corridas de obstáculos, tentando ser o último sobrevivente.",
+        "TAMANHO": "8 GB"
+    },
+    {
+        "NOME": "Hades",
+        "LINKIMAGEM": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg",
+        "LINKMAGNET": "magnet:?xt=urn:btih:produto21",
+        "CATEGORIA": "Ação",
+        "DESCRICAO": "Um roguelike de ação onde você joga como Zagreus, o filho de Hades, tentando escapar do submundo e encontrar sua mãe, Persephone.",
+        "TAMANHO": "4 GB"
+    }
 ]
