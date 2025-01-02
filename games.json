@@ -1,107 +1,159 @@
 {
   "games": [
     {
-      "name": "The Witcher 3: Wild Hunt",
-      "description": "Um RPG épico em mundo aberto que segue a história de Geralt de Rivia, um caçador de monstros profissional em busca de sua filha adotiva.",
-      "linkimage": "https://cdn-l-thewitcher.cdprojektred.com/meta/TW3NG_thumbnail_en.png",
-      "linkdownloadbutton": "https://cdn-l-thewitcher.cdprojektred.com/meta/TW3NG_thumbnail_en.png",
+      "name": "Dwarf Fortress",
+      "description": "Um simulador de construção e gerenciamento de uma fortaleza de anões, com elementos de sobrevivência e simulação de mundo em grande escala.",
+      "linkimage": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dwarf_Fortress_logo.png",
+      "linkdownloadbutton": "http://www.bay12games.com/dwarves/",
       "requirements": {
-        "OS": "Windows 7 64-bit",
-        "PROCESSOR": "Intel Core i5-2500K / AMD Phenom II X4 940",
-        "MEMORY": "6 GB RAM",
-        "GRAPHICS": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
-        "STORAGE": "35 GB available space"
+        "OS": "Windows XP",
+        "PROCESSOR": "1 GHz",
+        "MEMORY": "2 GB RAM",
+        "GRAPHICS": "Intel HD Graphics 2000",
+        "STORAGE": "200 MB available space"
       }
     },
     {
-      "name": "Elden Ring",
-      "description": "Um jogo de ação RPG em um mundo aberto criado por FromSoftware e George R. R. Martin, conhecido por seus combates desafiadores e uma história profunda.",
-      "linkimage": "https://cdn.oneesports.co.th/cdn-data/sites/3/2024/03/dl3d5ccidn9wlkemhfjr.jpg",
-      "linkdownloadbutton": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+      "name": "Spelunky Classic",
+      "description": "Um jogo de plataforma de ação onde você explora cavernas geradas aleatoriamente em busca de tesouros e aventuras.",
+      "linkimage": "https://spelunkyworld.com/wp-content/uploads/2018/12/Spelunky-Classics.png",
+      "linkdownloadbutton": "https://spelunkyworld.com/original/",
       "requirements": {
-        "OS": "Windows 10",
-        "PROCESSOR": "Intel Core i5-8400 / AMD Ryzen 3 3300X",
-        "MEMORY": "12 GB RAM",
-        "GRAPHICS": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
-        "STORAGE": "60 GB available space"
+        "OS": "Windows XP",
+        "PROCESSOR": "1 GHz",
+        "MEMORY": "1 GB RAM",
+        "GRAPHICS": "Intel HD Graphics",
+        "STORAGE": "10 MB available space"
       }
     },
     {
-      "name": "Red Dead Redemption 2",
-      "description": "Aclamado jogo de mundo aberto que conta a história de Arthur Morgan e o declínio do Velho Oeste.",
-      "linkimage": "https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/25273.jpeg.webp",
-      "linkdownloadbutton": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+      "name": "Cave Story",
+      "description": "Um jogo de ação e aventura com uma história cativante e jogabilidade estilo Metroidvania.",
+      "linkimage": "https://www.nicalis.com/img/cs/cover.png",
+      "linkdownloadbutton": "https://www.cavestory.org/downloads.php",
       "requirements": {
-        "OS": "Windows 10",
-        "PROCESSOR": "Intel Core i5-2500K / AMD FX-6300",
-        "MEMORY": "8 GB RAM",
-        "GRAPHICS": "NVIDIA GeForce GTX 770 / AMD Radeon R9 280",
-        "STORAGE": "150 GB available space"
+        "OS": "Windows XP",
+        "PROCESSOR": "500 MHz",
+        "MEMORY": "128 MB RAM",
+        "GRAPHICS": "64 MB video memory",
+        "STORAGE": "30 MB available space"
       }
     },
     {
-      "name": "Cyberpunk 2077",
-      "description": "Um RPG futurista em um mundo aberto onde você explora Night City como V, um mercenário em busca de imortalidade.",
-      "linkimage": "https://static.cdprojektred.com/cms.cdprojektred.com/16x9_big/12aaa3b137a18e180bb92682e8f81674dcb7451f-1920x1080.jpg",
-      "linkdownloadbutton": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+      "name": "Tux Racer",
+      "description": "Um jogo de corrida onde você controla o pinguim Tux, o mascote do Linux, descendo montanhas em alta velocidade.",
+      "linkimage": "https://upload.wikimedia.org/wikipedia/commons/9/96/Tux_Racer_logo.png",
+      "linkdownloadbutton": "https://sourceforge.net/projects/tuxracer/",
       "requirements": {
-        "OS": "Windows 10",
-        "PROCESSOR": "Intel Core i5-3570K / AMD FX-8310",
-        "MEMORY": "8 GB RAM",
-        "GRAPHICS": "NVIDIA GeForce GTX 970 / AMD Radeon RX 470",
-        "STORAGE": "70 GB available space"
+        "OS": "Windows 98",
+        "PROCESSOR": "500 MHz",
+        "MEMORY": "128 MB RAM",
+        "GRAPHICS": "32 MB video memory",
+        "STORAGE": "15 MB available space"
       }
     },
     {
-      "name": "Hollow Knight",
-      "description": "Um jogo de plataforma metroidvania em que você explora um vasto mundo subterrâneo cheio de mistérios e desafios.",
-      "linkimage": "https://assets1.ignimgs.com/2018/06/21/hollowknight-1280-1529623462572.jpg",
-      "linkdownloadbutton": "https://store.steampowered.com/app/367520/Hollow_Knight/",
+      "name": "Battle for Wesnoth",
+      "description": "Um jogo de estratégia por turnos com temática de fantasia, onde você controla exércitos em batalhas épicas.",
+      "linkimage": "https://www.wesnoth.org/images/screenshots/Battle_for_Wesnoth.png",
+      "linkdownloadbutton": "https://www.wesnoth.org/",
+      "requirements": {
+        "OS": "Windows XP",
+        "PROCESSOR": "1 GHz",
+        "MEMORY": "512 MB RAM",
+        "GRAPHICS": "OpenGL support",
+        "STORAGE": "200 MB available space"
+      }
+    },
+    {
+      "name": "The Dark Mod",
+      "description": "Um jogo de furtividade inspirado na série Thief, onde você assume o papel de um ladrão em missões de roubo.",
+      "linkimage": "https://www.thedarkmod.com/wp-content/uploads/2019/02/tdm_logo.png",
+      "linkdownloadbutton": "https://www.thedarkmod.com/",
       "requirements": {
         "OS": "Windows 7",
-        "PROCESSOR": "Intel Core 2 Duo E5200",
-        "MEMORY": "4 GB RAM",
-        "GRAPHICS": "GeForce 9800GTX+ / ATI Radeon HD 4850",
-        "STORAGE": "9 GB available space"
+        "PROCESSOR": "1.5 GHz",
+        "MEMORY": "2 GB RAM",
+        "GRAPHICS": "OpenGL compatible graphics",
+        "STORAGE": "2 GB available space"
       }
     },
     {
-      "name": "Stardew Valley",
-      "description": "Um jogo de simulação e RPG onde você gerencia sua fazenda, constrói relacionamentos e explora cavernas.",
-      "linkimage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg",
-      "linkdownloadbutton": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+      "name": "OpenRA",
+      "description": "Um remake de código aberto dos clássicos jogos de estratégia em tempo real (RTS) como *Command & Conquer*.",
+      "linkimage": "https://www.openra.net/assets/images/logo.png",
+      "linkdownloadbutton": "https://www.openra.net/download/",
       "requirements": {
-        "OS": "Windows Vista",
-        "PROCESSOR": "2 GHz",
+        "OS": "Windows 7",
+        "PROCESSOR": "1 GHz",
         "MEMORY": "2 GB RAM",
-        "GRAPHICS": "256 MB video memory, OpenGL 2",
+        "GRAPHICS": "OpenGL compatible",
         "STORAGE": "500 MB available space"
       }
     },
     {
-      "name": "Celeste",
-      "description": "Um jogo de plataforma desafiador com uma história emocionante sobre superar seus próprios limites.",
-      "linkimage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOV5kQKjLpOifAXmKJgxGJTRY5l9B5YgWD4RvwR3HB-xEdQjXEctfvVkLBSKLXHzDF2s4hzuLWjEgKVfpmfZXpfKfuij7GzDooIByW1W7GCFS5jetkClrr0qmgVdzhdZZcPx3FGDu83N4/w1200-h630-p-k-no-nu/celeste-2.jpg",
-      "linkdownloadbutton": "https://store.steampowered.com/app/504230/Celeste/",
+      "name": "Selma and the Wisp",
+      "description": "Um jogo de aventura e plataforma com uma atmosfera misteriosa, onde você ajuda uma criança a encontrar o caminho para a segurança.",
+      "linkimage": "https://store.steampowered.com/public/shared/images/apps/526840/726045597464964643.png",
+      "linkdownloadbutton": "https://store.steampowered.com/app/526840/Selma_and_the_Wisp/",
       "requirements": {
         "OS": "Windows 7",
-        "PROCESSOR": "Intel Core i3 M380",
-        "MEMORY": "2 GB RAM",
-        "GRAPHICS": "Intel HD 4000",
-        "STORAGE": "1.2 GB available space"
+        "PROCESSOR": "1.5 GHz",
+        "MEMORY": "1 GB RAM",
+        "GRAPHICS": "256 MB video memory",
+        "STORAGE": "1 GB available space"
       }
     },
     {
-      "name": "God of War (2018)",
-      "description": "Kratos embarca em uma nova jornada na mitologia nórdica ao lado de seu filho Atreus.",
-      "linkimage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_616x353.jpg",
-      "linkdownloadbutton": "https://store.steampowered.com/app/1593500/God_of_War/",
+      "name": "SuperTuxKart",
+      "description": "Um jogo de corrida de karts inspirado em *Mario Kart*, com personagens fofos e pistas divertidas.",
+      "linkimage": "https://supertuxkart.net/wp-content/uploads/2020/03/logo.svg",
+      "linkdownloadbutton": "https://supertuxkart.net/download/",
       "requirements": {
-        "OS": "Windows 10",
-        "PROCESSOR": "Intel Core i5-2500K / AMD Ryzen 3 1200",
-        "MEMORY": "8 GB RAM",
-        "GRAPHICS": "NVIDIA GTX 960 / AMD R9 290X",
-        "STORAGE": "70 GB available space"
+        "OS": "Windows XP",
+        "PROCESSOR": "1 GHz",
+        "MEMORY": "1 GB RAM",
+        "GRAPHICS": "OpenGL compatible",
+        "STORAGE": "150 MB available space"
+      }
+    },
+    {
+      "name": "Godot Engine",
+      "description": "Um motor de jogo open-source para desenvolver jogos 2D e 3D.",
+      "linkimage": "https://godotengine.org/images/logos/large/logo.svg",
+      "linkdownloadbutton": "https://godotengine.org/download",
+      "requirements": {
+        "OS": "Windows 7",
+        "PROCESSOR": "1.5 GHz",
+        "MEMORY": "2 GB RAM",
+        "GRAPHICS": "OpenGL 3.3 compatible",
+        "STORAGE": "200 MB available space"
+      }
+    },
+    {
+      "name": "Atom Zombie Smasher",
+      "description": "Um jogo de estratégia em tempo real com foco em planejamento e ação durante uma invasão de zumbis.",
+      "linkimage": "https://upload.wikimedia.org/wikipedia/en/1/19/AtomZombieSmasherBoxart.jpg",
+      "linkdownloadbutton": "https://blendogames.com/atomzombiesmasher/",
+      "requirements": {
+        "OS": "Windows XP",
+        "PROCESSOR": "1.2 GHz",
+        "MEMORY": "1 GB RAM",
+        "GRAPHICS": "128 MB video memory",
+        "STORAGE": "150 MB available space"
+      }
+    },
+    {
+      "name": "Minicraft",
+      "description": "Um jogo de sobrevivência e exploração em 2D onde você constrói, cria e luta contra inimigos.",
+      "linkimage": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Minicraft_-_Game_logo.png",
+      "linkdownloadbutton": "https://notch.tumblr.com/post/8240492497/minicraft",
+      "requirements": {
+        "OS": "Windows XP",
+        "PROCESSOR": "800 MHz",
+        "MEMORY": "512 MB RAM",
+        "GRAPHICS": "OpenGL compatible",
+        "STORAGE": "15 MB available space"
       }
     }
   ]
