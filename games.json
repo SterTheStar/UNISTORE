@@ -1,0 +1,108 @@
+{
+  "games": [
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "description": "Um RPG épico em mundo aberto que segue a história de Geralt de Rivia, um caçador de monstros profissional em busca de sua filha adotiva.",
+      "linkimage": "https://image-link.com/witcher3.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+      "requirements": {
+        "OS": "Windows 7 64-bit",
+        "PROCESSOR": "Intel Core i5-2500K / AMD Phenom II X4 940",
+        "MEMORY": "6 GB RAM",
+        "GRAPHICS": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
+        "STORAGE": "35 GB available space"
+      }
+    },
+    {
+      "name": "Elden Ring",
+      "description": "Um jogo de ação RPG em um mundo aberto criado por FromSoftware e George R. R. Martin, conhecido por seus combates desafiadores e uma história profunda.",
+      "linkimage": "https://image-link.com/eldenring.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+      "requirements": {
+        "OS": "Windows 10",
+        "PROCESSOR": "Intel Core i5-8400 / AMD Ryzen 3 3300X",
+        "MEMORY": "12 GB RAM",
+        "GRAPHICS": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+        "STORAGE": "60 GB available space"
+      }
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "description": "Aclamado jogo de mundo aberto que conta a história de Arthur Morgan e o declínio do Velho Oeste.",
+      "linkimage": "https://image-link.com/rdr2.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+      "requirements": {
+        "OS": "Windows 10",
+        "PROCESSOR": "Intel Core i5-2500K / AMD FX-6300",
+        "MEMORY": "8 GB RAM",
+        "GRAPHICS": "NVIDIA GeForce GTX 770 / AMD Radeon R9 280",
+        "STORAGE": "150 GB available space"
+      }
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "description": "Um RPG futurista em um mundo aberto onde você explora Night City como V, um mercenário em busca de imortalidade.",
+      "linkimage": "https://image-link.com/cyberpunk2077.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+      "requirements": {
+        "OS": "Windows 10",
+        "PROCESSOR": "Intel Core i5-3570K / AMD FX-8310",
+        "MEMORY": "8 GB RAM",
+        "GRAPHICS": "NVIDIA GeForce GTX 970 / AMD Radeon RX 470",
+        "STORAGE": "70 GB available space"
+      }
+    },
+    {
+      "name": "Hollow Knight",
+      "description": "Um jogo de plataforma metroidvania em que você explora um vasto mundo subterrâneo cheio de mistérios e desafios.",
+      "linkimage": "https://image-link.com/hollowknight.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/367520/Hollow_Knight/",
+      "requirements": {
+        "OS": "Windows 7",
+        "PROCESSOR": "Intel Core 2 Duo E5200",
+        "MEMORY": "4 GB RAM",
+        "GRAPHICS": "GeForce 9800GTX+ / ATI Radeon HD 4850",
+        "STORAGE": "9 GB available space"
+      }
+    },
+    {
+      "name": "Stardew Valley",
+      "description": "Um jogo de simulação e RPG onde você gerencia sua fazenda, constrói relacionamentos e explora cavernas.",
+      "linkimage": "https://image-link.com/stardewvalley.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+      "requirements": {
+        "OS": "Windows Vista",
+        "PROCESSOR": "2 GHz",
+        "MEMORY": "2 GB RAM",
+        "GRAPHICS": "256 MB video memory, OpenGL 2",
+        "STORAGE": "500 MB available space"
+      }
+    },
+    {
+      "name": "Celeste",
+      "description": "Um jogo de plataforma desafiador com uma história emocionante sobre superar seus próprios limites.",
+      "linkimage": "https://image-link.com/celeste.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/504230/Celeste/",
+      "requirements": {
+        "OS": "Windows 7",
+        "PROCESSOR": "Intel Core i3 M380",
+        "MEMORY": "2 GB RAM",
+        "GRAPHICS": "Intel HD 4000",
+        "STORAGE": "1.2 GB available space"
+      }
+    },
+    {
+      "name": "God of War (2018)",
+      "description": "Kratos embarca em uma nova jornada na mitologia nórdica ao lado de seu filho Atreus.",
+      "linkimage": "https://image-link.com/godofwar.jpg",
+      "linkdownloadbutton": "https://store.steampowered.com/app/1593500/God_of_War/",
+      "requirements": {
+        "OS": "Windows 10",
+        "PROCESSOR": "Intel Core i5-2500K / AMD Ryzen 3 1200",
+        "MEMORY": "8 GB RAM",
+        "GRAPHICS": "NVIDIA GTX 960 / AMD R9 290X",
+        "STORAGE": "70 GB available space"
+      }
+    }
+  ]
+}
