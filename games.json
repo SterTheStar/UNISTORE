@@ -4,7 +4,7 @@
       "name": "The Witcher 3: Wild Hunt",
       "description": "Um RPG épico em mundo aberto que segue a história de Geralt de Rivia, um caçador de monstros profissional em busca de sua filha adotiva.",
       "linkimage": "https://image-link.com/witcher3.jpg",
-      "linkdownloadbutton": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+      "linkdownloadbutton": "https://cdn-l-thewitcher.cdprojektred.com/meta/TW3NG_thumbnail_en.png",
       "requirements": {
         "OS": "Windows 7 64-bit",
         "PROCESSOR": "Intel Core i5-2500K / AMD Phenom II X4 940",
@@ -16,7 +16,7 @@
     {
       "name": "Elden Ring",
       "description": "Um jogo de ação RPG em um mundo aberto criado por FromSoftware e George R. R. Martin, conhecido por seus combates desafiadores e uma história profunda.",
-      "linkimage": "https://image-link.com/eldenring.jpg",
+      "linkimage": "https://cdn.oneesports.co.th/cdn-data/sites/3/2024/03/dl3d5ccidn9wlkemhfjr.jpg",
       "linkdownloadbutton": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
       "requirements": {
         "OS": "Windows 10",
@@ -29,7 +29,7 @@
     {
       "name": "Red Dead Redemption 2",
       "description": "Aclamado jogo de mundo aberto que conta a história de Arthur Morgan e o declínio do Velho Oeste.",
-      "linkimage": "https://image-link.com/rdr2.jpg",
+      "linkimage": "https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/25273.jpeg.webp",
       "linkdownloadbutton": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
       "requirements": {
         "OS": "Windows 10",
@@ -42,7 +42,7 @@
     {
       "name": "Cyberpunk 2077",
       "description": "Um RPG futurista em um mundo aberto onde você explora Night City como V, um mercenário em busca de imortalidade.",
-      "linkimage": "https://image-link.com/cyberpunk2077.jpg",
+      "linkimage": "https://static.cdprojektred.com/cms.cdprojektred.com/16x9_big/12aaa3b137a18e180bb92682e8f81674dcb7451f-1920x1080.jpg",
       "linkdownloadbutton": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
       "requirements": {
         "OS": "Windows 10",
@@ -55,7 +55,7 @@
     {
       "name": "Hollow Knight",
       "description": "Um jogo de plataforma metroidvania em que você explora um vasto mundo subterrâneo cheio de mistérios e desafios.",
-      "linkimage": "https://image-link.com/hollowknight.jpg",
+      "linkimage": "https://atorredecontrole.com.br/2019/03/14/a-historia-de-hollow-knight/",
       "linkdownloadbutton": "https://store.steampowered.com/app/367520/Hollow_Knight/",
       "requirements": {
         "OS": "Windows 7",
@@ -68,7 +68,7 @@
     {
       "name": "Stardew Valley",
       "description": "Um jogo de simulação e RPG onde você gerencia sua fazenda, constrói relacionamentos e explora cavernas.",
-      "linkimage": "https://image-link.com/stardewvalley.jpg",
+      "linkimage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg",
       "linkdownloadbutton": "https://store.steampowered.com/app/413150/Stardew_Valley/",
       "requirements": {
         "OS": "Windows Vista",
@@ -81,7 +81,7 @@
     {
       "name": "Celeste",
       "description": "Um jogo de plataforma desafiador com uma história emocionante sobre superar seus próprios limites.",
-      "linkimage": "https://image-link.com/celeste.jpg",
+      "linkimage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOV5kQKjLpOifAXmKJgxGJTRY5l9B5YgWD4RvwR3HB-xEdQjXEctfvVkLBSKLXHzDF2s4hzuLWjEgKVfpmfZXpfKfuij7GzDooIByW1W7GCFS5jetkClrr0qmgVdzhdZZcPx3FGDu83N4/w1200-h630-p-k-no-nu/celeste-2.jpg",
       "linkdownloadbutton": "https://store.steampowered.com/app/504230/Celeste/",
       "requirements": {
         "OS": "Windows 7",
@@ -94,7 +94,7 @@
     {
       "name": "God of War (2018)",
       "description": "Kratos embarca em uma nova jornada na mitologia nórdica ao lado de seu filho Atreus.",
-      "linkimage": "https://image-link.com/godofwar.jpg",
+      "linkimage": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_616x353.jpg",
       "linkdownloadbutton": "https://store.steampowered.com/app/1593500/God_of_War/",
       "requirements": {
         "OS": "Windows 10",
