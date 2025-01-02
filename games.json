@@ -3,7 +3,7 @@
     {
       "name": "The Witcher 3: Wild Hunt",
       "description": "Um RPG épico em mundo aberto que segue a história de Geralt de Rivia, um caçador de monstros profissional em busca de sua filha adotiva.",
-      "linkimage": "https://image-link.com/witcher3.jpg",
+      "linkimage": "https://cdn-l-thewitcher.cdprojektred.com/meta/TW3NG_thumbnail_en.png",
       "linkdownloadbutton": "https://cdn-l-thewitcher.cdprojektred.com/meta/TW3NG_thumbnail_en.png",
       "requirements": {
         "OS": "Windows 7 64-bit",
@@ -55,7 +55,7 @@
     {
       "name": "Hollow Knight",
       "description": "Um jogo de plataforma metroidvania em que você explora um vasto mundo subterrâneo cheio de mistérios e desafios.",
-      "linkimage": "https://atorredecontrole.com.br/2019/03/14/a-historia-de-hollow-knight/",
+      "linkimage": "https://assets1.ignimgs.com/2018/06/21/hollowknight-1280-1529623462572.jpg",
       "linkdownloadbutton": "https://store.steampowered.com/app/367520/Hollow_Knight/",
       "requirements": {
         "OS": "Windows 7",
